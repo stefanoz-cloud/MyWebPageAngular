@@ -1,4 +1,5 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import {TabViewModule} from 'primeng/tabview';
 
 import { EducationComponent } from './education.component';
 
